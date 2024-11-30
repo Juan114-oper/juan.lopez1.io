@@ -1,0 +1,66 @@
+/* CON DIV*/
+.Mantenimientos-y-Proyectos {
+  background-color: aqua;
+}
+/* CON CLASS */
+.Temas {
+color:black;
+font-family:'Times New Roman', Times, serif
+}
+/* CON DIV FONDO SECCION ACCESO RAPIDOS*/
+.Accesos-rapidos{
+  background-color:cornflowerblue;
+}
+/* CON DIV COLOR DE FONDO SECCION POWER BI*/
+.powerbi {
+  background-color: burlywood;
+}
+/* CON DIV TITULO DE LA WEB */
+.WEB-CLARO-OPERACIONES {
+  background-color: red;
+}
+#Doto{
+  font-family: "Doto", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "ROND" 2;
+}
+/* CON ID*/
+#bungee{
+  font-family: "Bungee Tint", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+/* CON CLASS IMAGENES*/
+/* BORDES REDONDEADOS*/
+
+.img-eficiencia {
+  width: 140px;
+ border-radius: 50%;
+ border-width: 10px;
+ border-color: red;
+ border-style: ridge;
+}
+.img-sites {
+  width: 200px;
+  border-radius: 100px;
+  border-width: 10px;
+  border-color: red;
+  border-style: ridge;
+}
+.img-sytex {
+  width: 180px;
+  border-radius: 100px;
+  border-width: 10px;
+  border-color: red;
+  border-style: ridge;
+}
+.img-optimizacion {
+  width: 120px;
+  border-radius: 50%;
+  border-width: 10px;
+  border-color: red;
+  border-style: ridge;
+}
